@@ -4,7 +4,7 @@ Submitted by: **Your Name Here**
 
 **Flixster+** is a movie browsing app that allows users to browse popular TV shows from The Movie Database API and view detailed information about each show.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
